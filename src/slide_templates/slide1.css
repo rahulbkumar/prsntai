@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    font-family: 'DM Sans', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  
+    background-color: #F1EFE8;
+}
+
+.horizontal-line {
+    width: 100%; /* Make the line span the entire width of the container */
+    height: 2.68px; /* Set the height of the line (adjust as needed) */
+    background-color: #333; /* Set the line color (adjust as needed) */
+    margin: 20px 0; /* Add spacing above and below the line (adjust as needed) */
+    position: fixed;
+    bottom: 50px;
+  }
+  
+  .slideNum {
+    position: fixed;
+    bottom: 10px;
+    right: 30px;
+    color: black;
+  }
+  
+  .little {
+    font-family: DM Sans;
+    font-size: large;
+  }
+
+  .App-logo {
+    height: 60px;
+    pointer-events: none;
+    position: fixed;
+    left: 20px;
+    bottom: 7px;
+  }
+
+  .bullets1 {
+    color: black;
+    font-size: 25px;
+    font-family: DM Sans;
+    font-weight: 400;
+    line-height: 32.16px;
+    word-wrap: break-word;
+    position: fixed;
+    left: 50px;
+    top: 150px;
+    width: 50%
+  }
+
+  li {
+    margin-bottom: 40px; /* Adjust the space below each list item */
+ }
+
+ #im1 {
+    position: fixed;
+    margin-right: 50px;
+ }
+
+ .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+    height: 80vh; /* Make the container take up the full viewport height */
+    margin-right: 40px;
+}
+
+#im1 {
+    align-self: flex-end;
+    margin-right: 60px; 
+    margin-top: auto; 
+} 
