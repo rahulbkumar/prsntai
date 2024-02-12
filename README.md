@@ -1,5 +1,10 @@
 https://devpost.com/software/prsnt-ai?ref_content=user-portfolio&ref_feature=in_progress
 
+![alt text](![image](https://github.com/rahulbkumar/prsnt.ai/assets/85476994/d2bf1af5-75b1-4d05-b9c3-dd749bda8add)
+)
+![alt text](![image](https://github.com/rahulbkumar/prsnt.ai/assets/85476994/cc5b1e06-63cc-48d1-8d73-ff8f5d44a882)
+)
+
 **Inspiration**
 
 Introducing 'prsnt.ai,' where the future of presentations meets the power of automation. Imagine a world where your words seamlessly transform into captivating visuals and bullet points as you speak. With speech-to-text magic powered by Amazon AWS, cohere's AI-driven text summarization, and a dynamic React slideshow, 'prsnt.ai' turns your ideas into stunning presentations in real-time, revolutionizing the way you share information.
