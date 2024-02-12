@@ -1,9 +1,6 @@
 https://devpost.com/software/prsnt-ai?ref_content=user-portfolio&ref_feature=in_progress
 
-![alt text](![image](https://github.com/rahulbkumar/prsnt.ai/assets/85476994/d2bf1af5-75b1-4d05-b9c3-dd749bda8add)
-)
-![alt text](![image](https://github.com/rahulbkumar/prsnt.ai/assets/85476994/cc5b1e06-63cc-48d1-8d73-ff8f5d44a882)
-)
+![alt text]([image_url](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/589/781/datas/original.png))
 
 **Inspiration**
 
