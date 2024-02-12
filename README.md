@@ -1,6 +1,4 @@
-https://devpost.com/software/prsnt-ai?ref_content=user-portfolio&ref_feature=in_progress
-
-![alt text]([image_url](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/589/781/datas/original.png))
+![alt text]([http://url/to/img.png](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/587/919/datas/gallery.jpg))
 
 **Inspiration**
 
