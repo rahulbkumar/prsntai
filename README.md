@@ -1,5 +1,5 @@
 ![alt text](https://github.com/rahulbkumar/prsnt.ai/assets/85476994/bf0b9d8a-0f5b-4249-8a86-d3951f49d26a)
-![alt text](https://github.com/rahulbkumar/prsnt.ai/assets/85476994/bf0b9d8a-0f5b-4249-8a86-d3951f49d26a](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/589/781/datas/gallery.jpg)
+![alt text](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/589/781/datas/gallery.jpg)
 
 **Inspiration**
 
